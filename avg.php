@@ -6,6 +6,6 @@
 	}
 	function srednia (a,b)
 	{
-		return (60*a+40*b)/2;
+		return (80*a+20*b)/2;
 	}
 <php>
